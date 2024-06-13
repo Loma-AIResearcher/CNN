@@ -14,3 +14,37 @@ This project demonstrates image classification using a Convolutional Neural Netw
 
 ## Project Structure
 
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/cifar10-classification.git
+    ```
+2. Change to the project directory:
+    ```bash
+    cd cifar10-classification
+    ```
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+### Training
+
+1. Download the CIFAR-10 dataset:
+    ```bash
+    python src/download.py
+    ```
+2. Train the model:
+    ```bash
+    python src/train.py
+    ```
+
+### Prediction
+
+Run the prediction script with a test image:
+```bash
+python src/predict.py
+

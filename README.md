@@ -51,7 +51,7 @@ This project demonstrates image classification using a Convolutional Neural Netw
 Run the prediction script with a test image:
 ```bash
 python src/predict.py
-
+```
 
 
 

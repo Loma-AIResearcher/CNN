@@ -42,6 +42,10 @@ This project demonstrates image classification using a Convolutional Neural Netw
     python src/train.py
     ```
 
+
+    python src/gui.py
+
+
 ### Prediction
 
 Run the prediction script with a test image:

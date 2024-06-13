@@ -18,11 +18,11 @@ This project demonstrates image classification using a Convolutional Neural Netw
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cifar10-classification.git
+    git clone https://github.com/Loma-AIResearcher/CNN.git
     ```
 2. Change to the project directory:
     ```bash
-    cd cifar10-classification
+    cd CNN
     ```
 3. Install the required packages:
     ```bash
@@ -32,7 +32,7 @@ This project demonstrates image classification using a Convolutional Neural Netw
 ## Usage
 
 ### Training
-
+#There is already trained model in Models folder with Accuracy :71.69%
 1. Download the CIFAR-10 dataset:
     ```bash
     python src/download.py

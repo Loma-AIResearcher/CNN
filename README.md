@@ -14,3 +14,16 @@ This project demonstrates image classification using a Convolutional Neural Netw
 
 ## Project Structure
 
+cifar10-classification/
+│
+├── data/
+├── models/
+│ └── cnn_cifar10.pth
+├── src/
+│ ├── download.py
+│ ├── train.py
+│ ├── predict.py
+│ ├── model.py
+│ └── gui.py
+├── requirements.txt
+└── README.md

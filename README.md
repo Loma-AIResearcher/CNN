@@ -18,6 +18,7 @@ This project demonstrates image classification using a Convolutional Neural Netw
 
 
 ## Project Structure
+```bash
 CNN/
 ├── data/
 ├── models/
@@ -30,7 +31,7 @@ CNN/
 │   └── gui.py
 ├── requirements.txt
 └── README.md
-
+```
 
 
 

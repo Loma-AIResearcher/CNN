@@ -10,9 +10,28 @@ This project demonstrates image classification using a Convolutional Neural Netw
   - [Training](#training)
   - [Prediction](#prediction)
   - [GUI](#gui)
-- [Requirements](#requirements)
+
+
+
+
+
+
 
 ## Project Structure
+CNN/
+│
+├── data/
+├── models/
+│ └── cnn_cifar10.pth
+├── src/
+│ ├── download.py
+│ ├── train.py
+│ ├── predict.py
+│ ├── model.py
+│ └── gui.py
+├── requirements.txt
+└── README.md
+
 
 ## Installation
 
@@ -55,7 +74,7 @@ python src/predict.py
 
 
 
-### Run GUI
+### GUI
 #IF WANTED#
 
 ```bash

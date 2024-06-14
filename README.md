@@ -21,6 +21,8 @@ This project demonstrates image classification using a Convolutional Neural Netw
 ```bash
 CNN/
 ├── data/
+├── notebook/
+│   └── CNN-TORCH.ipynb
 ├── models/
 │   └── cnn_cifar10.pth
 ├── src/
